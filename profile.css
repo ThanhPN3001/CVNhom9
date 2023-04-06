@@ -1,0 +1,82 @@
+body{
+    
+    background-color:#B3E5FC;
+    border-radius: 10px;
+}
+.card{
+  width: 400px;
+  border: none;
+  border-radius: 10px;  
+  background-color: #fff;
+}
+.stats{
+      background: #f2f5f8 !important;
+    color: #000 !important;
+}
+.articles{
+  font-size:10px;
+  color: #a1aab9;
+}
+.number1{
+  font-weight:500;
+}
+.followers{
+    font-size:10px;
+  color: #a1aab9;
+
+}
+.number2{
+  font-weight:500;
+}
+.rating{
+    font-size:10px;
+  color: #a1aab9;
+}
+.number3{
+  font-weight:500;
+}
+.main-profile{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+.member{
+    padding: 10px;
+    flex-basis: 40%;
+    background: #B3E5FC;
+}
+.info-project{
+    padding: 10px;
+    flex-basis: 60%;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+}
+.list-member{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.group{
+    border: 2px solid black;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    background-color: #f2f5f8;
+    flex-direction: column;
+}
+.introduce{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+.summary{
+    padding-top: 10px;
+}
+p{
+    text-align: justify;
+}
